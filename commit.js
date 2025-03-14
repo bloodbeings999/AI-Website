@@ -1,5 +1,5 @@
 // Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key
-const API_KEY = 8521c4340e26d6c04a5278cd8da5d3c5;
+const API_KEY = 4187a3e5d971d7a8750bed0cca0245e5;
 const CITY = 'Singapore';
 
 // Function to fetch and display weather data
